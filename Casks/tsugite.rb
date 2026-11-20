@@ -1,6 +1,6 @@
 cask "tsugite" do
-  version "0.28.0"
-  sha256 "2f9b93c58621102ca162e272037c3516ad15eb2f7d0c049ced5605dba50171c5"
+  version "0.29.0"
+  sha256 "5b258cd0421ed4234b0ad7b6794a80ed5e4cb201503b11862c8f8d2f758c4990"
 
   url "https://github.com/justyns/tsugite/releases/download/v#{version}/Tsugite-#{version}-arm64-mac.zip"
   name "Tsugite"
